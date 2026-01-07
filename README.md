@@ -1,4 +1,5 @@
 Credit Card Analytics & Fraud Detection (SQL Project)
+
 📌 Project Overview
 
 This project focuses on credit card customer behavior analysis, risk detection, and fraud analytics using SQL.
@@ -31,6 +32,7 @@ merchants	Merchant category and location
 cards_data	Card-level attributes (brand, type, chip, PIN, limits, expiry)
 
 Key Analysis Sections
+
 1️⃣ Customer Behavior & Spend Analytics
 
 Monthly spend percentile per customer
